@@ -5,8 +5,11 @@ This project offers an automated solution for lung disease detection using a dee
 🔍 It classifies chest X-ray images into:
 
 COVID-19
+
 NORMAL
+
 PNEUMONIA
+
 TUBERCULOSIS
 
 🚀 Features
